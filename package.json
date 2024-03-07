@@ -1,0 +1,13 @@
+{
+  "name": "xpends",
+  "version": "1.0.0",
+  "main": "index.js",
+  "private": true,
+  "workspaces": {
+    "packages": [
+      "apps/*"
+    ]
+  },
+  "author": "thiago-menezes <thiago.menezes@gruposbf.com.br>",
+  "license": "MIT"
+}
